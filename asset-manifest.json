@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/poe-vendor-string/static/css/main.c5dea659.css",
-    "main.js": "/poe-vendor-string/static/js/main.d67c0aff.js",
-    "static/media/left_middle_fade_s.png": "/poe-vendor-string/static/media/left_middle_fade_s.5446c8a764f481af55a9.png",
-    "static/media/right_middle_fade_s.png": "/poe-vendor-string/static/media/right_middle_fade_s.9fd35f0ab9f5103a50a0.png",
-    "static/media/bmc-logo-no-background.png": "/poe-vendor-string/static/media/bmc-logo-no-background.d6e284bcf6fb5faa732f.png",
-    "static/media/manrope-all-400-normal.woff": "/poe-vendor-string/static/media/manrope-all-400-normal.29812aea39915b828ff1.woff",
-    "static/media/chain_icon.png": "/poe-vendor-string/static/media/chain_icon.069b3c0ad9ac72861076.png",
-    "static/media/crimson_temple_map.png": "/poe-vendor-string/static/media/crimson_temple_map.5208156016ae6fab47b7.png",
-    "static/media/manrope-latin-400-normal.woff2": "/poe-vendor-string/static/media/manrope-latin-400-normal.2cfae0fb4662deefa552.woff2",
-    "static/media/Chaos_Orb_inventory_icon.png": "/poe-vendor-string/static/media/Chaos_Orb_inventory_icon.52201c2ac11824366958.png",
-    "static/media/expeidition_reroll.png": "/poe-vendor-string/static/media/expeidition_reroll.c0a103cfca560e13cad8.png",
-    "static/media/manrope-latin-ext-400-normal.woff2": "/poe-vendor-string/static/media/manrope-latin-ext-400-normal.9408d54f42fd8adee645.woff2",
-    "static/media/manrope-cyrillic-400-normal.woff2": "/poe-vendor-string/static/media/manrope-cyrillic-400-normal.18b8749c8a2e81c91aa3.woff2",
-    "static/media/manrope-greek-400-normal.woff2": "/poe-vendor-string/static/media/manrope-greek-400-normal.d9fa2c702d76a9760e1b.woff2",
-    "static/media/manrope-vietnamese-400-normal.woff2": "/poe-vendor-string/static/media/manrope-vietnamese-400-normal.4bb1be8af765fce74e9b.woff2",
-    "static/media/manrope-cyrillic-ext-400-normal.woff2": "/poe-vendor-string/static/media/manrope-cyrillic-ext-400-normal.a26a46564e052e1282fa.woff2",
-    "index.html": "/poe-vendor-string/index.html",
-    "main.c5dea659.css.map": "/poe-vendor-string/static/css/main.c5dea659.css.map",
-    "main.d67c0aff.js.map": "/poe-vendor-string/static/js/main.d67c0aff.js.map"
+    "main.css": "/goufix.github.io/poe-vendor-string/static/css/main.7efb71c5.css",
+    "main.js": "/goufix.github.io/poe-vendor-string/static/js/main.2626e5af.js",
+    "static/media/left_middle_fade_s.png": "/goufix.github.io/poe-vendor-string/static/media/left_middle_fade_s.5446c8a764f481af55a9.png",
+    "static/media/right_middle_fade_s.png": "/goufix.github.io/poe-vendor-string/static/media/right_middle_fade_s.9fd35f0ab9f5103a50a0.png",
+    "static/media/bmc-logo-no-background.png": "/goufix.github.io/poe-vendor-string/static/media/bmc-logo-no-background.d6e284bcf6fb5faa732f.png",
+    "static/media/manrope-all-400-normal.woff": "/goufix.github.io/poe-vendor-string/static/media/manrope-all-400-normal.29812aea39915b828ff1.woff",
+    "static/media/chain_icon.png": "/goufix.github.io/poe-vendor-string/static/media/chain_icon.069b3c0ad9ac72861076.png",
+    "static/media/crimson_temple_map.png": "/goufix.github.io/poe-vendor-string/static/media/crimson_temple_map.5208156016ae6fab47b7.png",
+    "static/media/manrope-latin-400-normal.woff2": "/goufix.github.io/poe-vendor-string/static/media/manrope-latin-400-normal.2cfae0fb4662deefa552.woff2",
+    "static/media/Chaos_Orb_inventory_icon.png": "/goufix.github.io/poe-vendor-string/static/media/Chaos_Orb_inventory_icon.52201c2ac11824366958.png",
+    "static/media/expeidition_reroll.png": "/goufix.github.io/poe-vendor-string/static/media/expeidition_reroll.c0a103cfca560e13cad8.png",
+    "static/media/manrope-latin-ext-400-normal.woff2": "/goufix.github.io/poe-vendor-string/static/media/manrope-latin-ext-400-normal.9408d54f42fd8adee645.woff2",
+    "static/media/manrope-cyrillic-400-normal.woff2": "/goufix.github.io/poe-vendor-string/static/media/manrope-cyrillic-400-normal.18b8749c8a2e81c91aa3.woff2",
+    "static/media/manrope-greek-400-normal.woff2": "/goufix.github.io/poe-vendor-string/static/media/manrope-greek-400-normal.d9fa2c702d76a9760e1b.woff2",
+    "static/media/manrope-vietnamese-400-normal.woff2": "/goufix.github.io/poe-vendor-string/static/media/manrope-vietnamese-400-normal.4bb1be8af765fce74e9b.woff2",
+    "static/media/manrope-cyrillic-ext-400-normal.woff2": "/goufix.github.io/poe-vendor-string/static/media/manrope-cyrillic-ext-400-normal.a26a46564e052e1282fa.woff2",
+    "index.html": "/goufix.github.io/poe-vendor-string/index.html",
+    "main.7efb71c5.css.map": "/goufix.github.io/poe-vendor-string/static/css/main.7efb71c5.css.map",
+    "main.2626e5af.js.map": "/goufix.github.io/poe-vendor-string/static/js/main.2626e5af.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5dea659.css",
-    "static/js/main.d67c0aff.js"
+    "static/css/main.7efb71c5.css",
+    "static/js/main.2626e5af.js"
   ]
 }
